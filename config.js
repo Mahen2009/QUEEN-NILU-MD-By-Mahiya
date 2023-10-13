@@ -23,9 +23,9 @@ global.POSTGRESQL_URL = ''
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94761344821'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ᴸᵒʳᵈ Mr.Mahiya'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,19 +41,19 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = '𝓠𝓾𝓮𝓮𝓷 𝓗𝓲𝓻𝓾'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = '𝓠𝓾𝓮𝓮𝓷 𝓗𝓲𝓻𝓾 2023' //sticker
 
-global.FOOTER = 'Queen Nilu 2023 '
+global.FOOTER = '𝓠𝓾𝓮𝓮𝓷 𝓗𝓲𝓻𝓾 2023 '
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
 global.PREFIX = '.' // Bot Prefix
 
-global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
+global.CAPTION = '𝓠𝓾𝓮𝓮𝓷 𝓗𝓲𝓻𝓾  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
 
@@ -63,15 +63,15 @@ global.MAX_SIZE = '400' // Bot Uloading Max size
 
 global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
-global.ANTI_BAD_ACTION = false
+global.ANTI_BAD_ACTION = true
 
-global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
 global.ONLY_GROUP = 'false' // Only group mode
 
-global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
+global.GROUP_LINK = 'https://chat.whatsapp.com/Kkx52RfAR0OKGsefLiupss' // ur group link
 
 
 /* 18 + Download Settings */
@@ -89,7 +89,7 @@ global.VOICE_REPLY = true
 
 /* V card */
 
-global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.ytname = "YT: Gaming Mahi" //ur yt chanel name
+global.socialm = "GitHub: ᴸᵒʳᵈ Mr.Mahiya" //ur github or insta name
+global.location = "Srilanka, elpitiya" //ur location
 
