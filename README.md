@@ -1,6 +1,6 @@
 <p align="center"> 
   <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Janiya" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=Queen+Nilu+Md+;Created+By+Mahiya" alt="Typing SVG" /></a>
 </p> 
   
 <p align="center"> 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Mahiya-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
